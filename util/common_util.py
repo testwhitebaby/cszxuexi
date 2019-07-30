@@ -15,7 +15,7 @@ class CommonUtil:
 		
 		   flag = None
         if str_one in str_two:
-            flag = True
+            flajjjjjg = True
         else:
             flag =False
         return flag
