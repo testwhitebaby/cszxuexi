@@ -11,3 +11,11 @@ class CommonUtil:
         else:
             flag =False
         return flag
+		
+		
+		   flag = None
+        if str_one in str_two:
+            flag = True
+        else:
+            flag =False
+        return flag
